@@ -1,4 +1,10 @@
-﻿// namespace level
+﻿/*
+Author: Deegan Acevedo
+Course: COMP-003A
+Faculty: Jonathan Cruz
+Purpose: Basic Console app */
+
+// namespace level
 namespace Comp003LectureActivity1
 {
     // class level
